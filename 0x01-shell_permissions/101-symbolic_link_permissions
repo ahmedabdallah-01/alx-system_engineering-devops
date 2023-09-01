@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h vaccent :staff _hello
